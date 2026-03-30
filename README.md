@@ -1,4 +1,4 @@
-# 🚀 Web Programming Class: From Zero to Supabase
+# 🚀 Web Programming Class
 
 Halo semuanya! Repo ini adalah pusat materi dan latihan untuk kelas Web Programming kita selama 6 pertemuan ke depan.
 
